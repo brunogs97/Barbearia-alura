@@ -87,3 +87,14 @@ h2 {
     width: 50%;
     height: 460px;
 }
+
+footer {
+    text-align: center;
+    background: url("../img/imagens/bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright {
+    font-size: 13px;
+    color: #bbbbbb;
+}
